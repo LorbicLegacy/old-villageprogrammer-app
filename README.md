@@ -20,3 +20,6 @@ First working release : Today (Sept 13, 2019)
 All the source files are available inside :  app/src/main/
 
 the installer for app is inside :  installer/villageprogrammerapp.apk
+
+
+Website : https://villageprogrammer.blogspot.com
