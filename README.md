@@ -15,3 +15,8 @@ Developer : Vikas Patel
 Project start date : Aug 28, 2019
 
 First working release : Today (Sept 13, 2019) 
+
+
+All the source files are available inside :  app/src/main/
+
+the installer for app is inside :  installer/villageprogrammerapp.apk
