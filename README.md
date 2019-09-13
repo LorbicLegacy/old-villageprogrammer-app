@@ -1,6 +1,8 @@
 # villageprogrammer-app
 Android app for E-learning.
+
 This is an android app created under the Minor project.
+
 It works on the domain of E-learning. 
 
 
